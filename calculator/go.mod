@@ -1,3 +1,3 @@
-module github.com/tajale72/calculator
+module github.com/tajale72/tfirm-profile
 
 go 1.20
